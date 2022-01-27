@@ -1,2 +1,2 @@
 pycaret==2.3.6
-
+gunicorn==19.9.0
